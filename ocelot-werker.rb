@@ -8,6 +8,6 @@ class OcelotWerker < Formula
   bottle :unneeded
 
   def install
-    bin.install "ocelot"
+    bin.install "werker"
   end
 end

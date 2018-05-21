@@ -1,9 +1,9 @@
 class OcelotWerker < Formula
   desc "the ocelot werker noded"
   homepage "https://bitbucket.org/level11consulting/ocelot"
-  url "https://s3-us-west-2.amazonaws.com/ocelotty/darwin-werker-0.4.0.zip"
-  sha256 "8eecae759f04bd6a97ab2fd99807a6c53e6c6d0b22e23b8319d289fdf562d5b8"
-  version "0.4.0"
+  url "https://s3-us-west-2.amazonaws.com/ocelotty/darwin-werker-0.4.2.zip"
+  sha256 "6be61cedef8cf8ef79ce0f0fe9b1274f4deadf0b980439049eb707a63deb7f42"
+  version "0.4.2"
 
   bottle :unneeded
 
